@@ -37,7 +37,7 @@ You Can make more labels and train your CNN model on it.
 ![Plot](https://raw.githubusercontent.com/Amir22010/CV_Deep_Learning/master/16_July_2019_Video_Classification/plot.png)
 
 
-## Prediction Demo
+## Trained RESNET50 CNN Model Prediction Demo
 
 - Formula 1
 
