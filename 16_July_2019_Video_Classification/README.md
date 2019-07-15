@@ -38,3 +38,15 @@ You Can make more labels and train your CNN model on it.
 
 
 ## Prediction Demo
+
+- Formula 1
+
+![cricket](https://raw.githubusercontent.com/Amir22010/CV_Deep_Learning/master/16_July_2019_Video_Classification/output/formula_128avg.gif)
+
+- Tennis
+
+![tennis](https://raw.githubusercontent.com/Amir22010/CV_Deep_Learning/master/16_July_2019_Video_Classification/output/tennis_128avg.gif)
+
+- Cricket
+
+![cricket](https://raw.githubusercontent.com/Amir22010/CV_Deep_Learning/master/16_July_2019_Video_Classification/output/cricket_128avg.gif)
